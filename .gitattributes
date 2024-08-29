@@ -2,7 +2,4 @@ Review[[:space:]]task/Aspect[[:space:]]Extraction[[:space:]]_[[:space:]]BERTopic
 Review[[:space:]]task/BERTopic_model filter=lfs diff=lfs merge=lfs -text
 Sentiment[[:space:]]Analzer/IMDB_Dataset.csv filter=lfs diff=lfs merge=lfs -text
 Sentiment[[:space:]]Analzer/IMDB_Dataset_label.csv filter=lfs diff=lfs merge=lfs -text
-Review filter=lfs diff=lfs merge=lfs -text
-task/Trained filter=lfs diff=lfs merge=lfs -text
-Model/BERTopic_model filter=lfs diff=lfs merge=lfs -text
 Review[[:space:]]task/Trained[[:space:]]Model/BERTopic_model filter=lfs diff=lfs merge=lfs -text
